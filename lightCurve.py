@@ -8,4 +8,3 @@ class lightCurve(object):
         
 
 l = lightCurve("red")
-#%%        
